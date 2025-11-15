@@ -176,11 +176,19 @@ cp /home/default/.cache/huggingface/lerobot/Kimz1/so100-teleop-record-0825-1cam/
 <br/>
 ACT와 Diffusion로 train후 eval하는 영상입니다. 더 많은 video와 data는 아래 링크를 통해 확인하실 수 있습니다.
 
+
 #### ACT
 
 https://huggingface.co/datasets/Kimz1/eval_so100-teleop-record-0827-5
 
 https://github.com/user-attachments/assets/6b789761-095e-49c8-b046-efa475ba6c64
+
+▪️  Episode : 100 pcs.  
+
+▪️   Step : 100k
+
+▪️  다각도, 장단거리 영상 추가
+
 
 <br/>
 
@@ -189,4 +197,16 @@ https://github.com/user-attachments/assets/6b789761-095e-49c8-b046-efa475ba6c64
 https://huggingface.co/datasets/Kimz1/so100-teleop-record-0827-4
 
 https://github.com/user-attachments/assets/d5b6b8fe-ac19-47dd-b5a8-2b79d091fec7
+
+▪️  Episode : 25 pcs. (only middle)
+
+▪️   Step : 40k
+
+▪️   Spot : Black 
+
+▪️   연속적인 움직임
+
+
+
+
 

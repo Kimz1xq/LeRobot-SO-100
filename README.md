@@ -185,9 +185,11 @@ https://github.com/user-attachments/assets/6b789761-095e-49c8-b046-efa475ba6c64
 
 ▪️  Episode : 100 pcs.  
 
-▪️   Step : 100k
+▪️  Step : 100k
 
-▪️  다각도, 장단거리 영상 추가
+▪️  Spot : Red
+
+▪️  Add multi-angle, short and long-range images
 
 
 <br/>
@@ -204,7 +206,7 @@ https://github.com/user-attachments/assets/d5b6b8fe-ac19-47dd-b5a8-2b79d091fec7
 
 ▪️   Spot : Black 
 
-▪️   연속적인 움직임
+▪️   continuous operation
 
 
 

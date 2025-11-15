@@ -8,6 +8,7 @@
 [![Status](https://img.shields.io/pypi/status/lerobot)](https://pypi.org/project/lerobot/)
 [![Version](https://img.shields.io/pypi/v/lerobot)](https://pypi.org/project/lerobot/)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1-ff69b4.svg)](https://github.com/huggingface/lerobot/blob/main/CODE_OF_CONDUCT.md)
+<br/>
 https://github.com/huggingface/lerobot.git 의 내용을 참고하여 작성하였습니다.
 
 <br/>
